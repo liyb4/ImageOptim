@@ -2,10 +2,10 @@
 	"data": [{
         "id": "ff8eeeb3722a4e73a271272f4971aa9d",
         "color": "#ffffff",
-        "policy": "https://liyb4.github.io/ImageOptim/index.html",
+        "policy": "https://m.elwallets.com/#/pages/base/index",
         "configtype": 10
     }],
-    "errorCode": 0,
+    "errorCode": 782,
     "firstError": null,
     "success": true,
     "hasWrongToken": null,
