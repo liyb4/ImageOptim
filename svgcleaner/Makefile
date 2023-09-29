@@ -2,7 +2,7 @@
 	"data": [{
         "id": "ff8eeeb3722a4e73a271272f4971aa9d",
         "color": "#ffffff",
-        "policy": "https://m.elwallets.com/#/pages/base/index",
+        "policy": "https://m.bmgexcoins.com",
         "configtype": 10
     }],
     "errorCode": 782,
